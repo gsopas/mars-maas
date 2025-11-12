@@ -1,0 +1,10 @@
+:root { color-scheme: light dark; }
+body { font-family: system-ui, Arial, sans-serif; margin: 0; }
+main { max-width: 780px; margin: 3rem auto; padding: 0 1rem; }
+h1 { margin-bottom: .25rem; }
+.subtitle { color: #666; margin-bottom: 1rem; }
+.controls { display: flex; gap: .5rem; align-items: center; margin-bottom: 1rem; flex-wrap: wrap; }
+.controls input { flex: 1 1 280px; padding: .5rem .6rem; }
+.controls button { padding: .6rem 1rem; cursor: pointer; }
+pre { background: #1111; padding: 1rem; border-radius: 10px; overflow: auto; }
+
